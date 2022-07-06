@@ -1,6 +1,7 @@
 ### Welcome to my world!
+> "_then the voice in my head said: WHETHER YOU LOVE WHAT YOU LOVE OR LIVE IN DIVIDED CEASELESS REVOLT AGAINST IT WHAT YOU LOVE IS YOUR FATE."_
 
-I am a writer, researcher, and reporter. 
+I am a researcher, reporter, and student. I **also** love the oxford comma. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
